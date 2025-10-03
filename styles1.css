@@ -1,0 +1,43 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+header{
+    background-color:grey;
+    height: 15vh;
+    font-size: 8vh;
+    text-align: center;
+
+}
+section{
+    background-color:grey;
+    height: 38vh;
+    width:60vw;
+    line-height:7vh;
+    float: right;
+    font-size: 20px;
+    padding-top:66px;
+    
+    
+}
+article{
+    background-color: gray;
+    height: 35.9vh;
+    width: 60vw;
+    line-height: 7vh;
+    clear: right;
+    float: right;
+    font-size: 20px;
+    
+}
+aside{
+    background-color: gray;
+    height: 85vh;
+    width: 46vw;
+}
+img{
+    height: 80vh;
+    width: 28vw;
+    padding-left: 105px;
+    border-radius: 30px;
+}
