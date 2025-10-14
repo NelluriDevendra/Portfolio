@@ -1,0 +1,39 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.header{
+    color: black;
+    background-color: skyblue;
+    height: 15vh;
+    font-size: 10vh;
+    padding-top: 10px;
+    padding-left: 20px;
+}
+.body{
+    background-color: black;
+    height: 100vh;
+}
+.main{
+    display: flex;
+}
+.section{
+    height: 82.5vh;
+    width: 45vw;
+}
+img{
+    padding-left: 110px;
+    padding-top: 70px;
+}
+
+.article{
+    height: 82.5vh;
+    width: 54.3vw;
+    
+}
+p{
+    color: skyblue;
+    font-size: 20px;
+    line-height: 1.5;
+    
+}
