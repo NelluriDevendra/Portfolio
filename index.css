@@ -17,16 +17,17 @@ li{
     display:inline-block;
     margin: 20px;
     font-size: 17px;
-    color: black;
+    color: snow;
 }
 header{
-    color: black;
-    background-color:gray;
+    color: snow;
+    background-color:darkblue;
     height: 60px;
     padding-top: 0px;
     padding-bottom: 0px;
     padding-right: 20px;
     padding-left: 30px;
+    
 }
 main{
     display: flex;
@@ -38,7 +39,8 @@ h1{
 section{
     font-size: 35px;
     line-height: 1.5;
-    background-color:darkgray;
+    background-color:darkblue;
+    color: snow;
     height:69.9vh;
     width: 50vw;
     padding-top: 100px;
@@ -53,9 +55,10 @@ p3{
    
 }
 article{
-    background-color:darkgray;
+    background-color:darkblue;
+    color: snow;
     height:69.9vh;
-    width:46.8vw;
+    width:46.86vw;
     display: flex;
     justify-content: center;
     padding-top: 100px;
@@ -64,6 +67,7 @@ img{
     border-radius: 75px;
 }
 footer{
-    background-color: darkgray;
+    background-color: darkblue;
     text-align: center;
+    color: snow;
 }

@@ -6,12 +6,12 @@
 header{
     height: 15vh;
     width: 100vw;
-    background-color: black;
+    background-color:darkblue;
     padding-top: 20px;
 }
 .h{
-    color: black;
-    background-color:skyblue;
+    color: snow;
+    background-color:rgb(11, 11, 155);
     height: 10vh;
     width: 25vw;
     font-size: 40px;
@@ -20,12 +20,12 @@ header{
 }
 
 body{
-    background-color: skyblue;
-    color: black;
+    background-color: darkblue;
+    color:snow;
 }
 .article{
-    background-color: skyblue;
-    color: black;
+    background-color: darkblue;
+    color: snow;
     display: flex;
     align-items: center;
     justify-content: center;

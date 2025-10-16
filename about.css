@@ -3,14 +3,16 @@
     padding: 0;
 }
 header{
-    background-color:grey;
+    background-color:darkblue;
+    color: snow;
     height: 15vh;
     font-size: 8vh;
     text-align: center;
 
 }
 section{
-    background-color:grey;
+    background-color:darkblue;
+    color: snow;
     height: 38vh;
     width:60vw;
     line-height:7vh;
@@ -21,7 +23,8 @@ section{
     
 }
 article{
-    background-color: gray;
+    background-color: darkblue;
+    color: snow;
     height: 35.9vh;
     width: 60vw;
     line-height: 7vh;
@@ -31,7 +34,8 @@ article{
     
 }
 aside{
-    background-color: gray;
+    background-color: darkblue;
+    color: snow;
     height: 85vh;
     width: 46vw;
 }
